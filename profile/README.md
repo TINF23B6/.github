@@ -1,5 +1,5 @@
 <div align="center" >
-	<a href="https://karlsruhe.dhbw.de">
+	<a href="https://www.karlsruhe.dhbw.de">
 		<picture>
 			<source height="200px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TINF23B6/.github/main/profile/assets/icon_dark.svg">
 			<img height="200px" src="https://raw.githubusercontent.com/TINF23B6/.github/main/profile/assets/icon_light.svg">
