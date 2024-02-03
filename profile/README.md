@@ -6,8 +6,8 @@
 		</picture>
 	</a>
 	<div>
-		<h1 style="margin-bottom: 0">TINF23B6</h1>
-		<h4 style="margin: 0">DHBW Karlsruhe</h4>
+		<h1 style="margin-bottom: 0; border-bottom: 0">TINF23B6</h1>
+		<h4 style="margin-top: 0">DHBW Karlsruhe</h4>
 	</div>
 </div>
 
