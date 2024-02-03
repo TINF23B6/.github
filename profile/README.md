@@ -20,7 +20,3 @@ Diese GitHub Organization dient als Speicherort für alle möglichen Dateien und
 ### 📚 Wie komme ich in die Organisation?
 
 Bitte frage in Person bei einem der Mitglieder der Organisation nach, ob du hinzugefügt werden kannst. Die Organisation ist privat und nur für Mitglieder des Kurses zugänglich.
-
-### 🚀 Wo fange ich an?
-
-Wenn du Mitglied der Organisation bist, kannst du in [dieser Repository](https://github.com/TINF23B6/TINF23B6) Infos rund um das Arbeiten mit Git und GitHub, sowie andere nützliche Informationen finden. Schau dich einfach mal um!
