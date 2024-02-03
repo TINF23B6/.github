@@ -6,7 +6,7 @@
 		</picture>
 	</a>
 	<div>
-		<h1 style="margin-bottom: 0; border-bottom: 0">TINF23B6</h1>
+		<h1 style="margin-bottom: 0">TINF23B6</h1>
 		<h4 style="margin-top: 0">DHBW Karlsruhe</h4>
 	</div>
 </div>
@@ -24,5 +24,3 @@ Bitte frage in Person bei einem der Mitglieder der Organisation nach, ob du hinz
 ### 🚀 Wo fange ich an?
 
 Wenn du Mitglied der Organisation bist, kannst du in [dieser Repository](https://github.com/TINF23B6/TINF23B6) Infos rund um das Arbeiten mit Git und GitHub, sowie andere nützliche Informationen finden. Schau dich einfach mal um!
-
-
