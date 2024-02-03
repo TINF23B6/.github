@@ -9,9 +9,8 @@
 		<h1 style="margin-bottom: 0">TINF23B6</h1>
 		<h3 style="margin-top: 0">DHBW Karlsruhe</h3>
 	</div>
+	<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" />
 </div>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png)
 
 ### 👋 Willkommen
 
