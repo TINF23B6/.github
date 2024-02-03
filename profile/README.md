@@ -13,7 +13,7 @@
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png)
 
-### 👋 Willkommen bei TINF23B6!
+### 👋 Willkommen
 
 Diese GitHub Organization dient als Speicherort für alle möglichen Dateien und Notizen rund um das Informatikstudium des Kurses TINF23B6 an der DHBW Karlsruhe.
 
