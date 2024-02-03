@@ -1,8 +1,8 @@
 <div align="center" >
 	<a href="https://karlsruhe.dhbw.de">
 		<picture>
-			<source height="200px" media="(prefers-color-scheme: dark)" srcset="assets/icon_dark.svg">
-			<img height="200px" src="assets/icon_light.svg">
+			<source height="200px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TINF23B6/.github/main/profile/assets/icon_dark.svg">
+			<img height="200px" src="https://raw.githubusercontent.com/TINF23B6/.github/main/profile/assets/icon_light.svg">
 		</picture>
 	</a>
 	<div>
@@ -24,3 +24,5 @@ Bitte frage in Person bei einem der Mitglieder der Organisation nach, ob du hinz
 ### 🚀 Wo fange ich an?
 
 Wenn du Mitglied der Organisation bist, kannst du in [dieser Repository](https://github.com/TINF23B6/TINF23B6) Infos rund um das Arbeiten mit Git und GitHub, sowie andere nützliche Informationen finden. Schau dich einfach mal um!
+
+
